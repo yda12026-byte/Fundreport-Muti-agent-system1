@@ -3,3 +3,4 @@
 .idea/
 __pycache__/
 *.log
+data/Data-Fund.accdb
