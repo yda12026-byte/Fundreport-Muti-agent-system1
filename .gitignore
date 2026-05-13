@@ -4,3 +4,5 @@
 __pycache__/
 *.log
 data/Data-Fund.accdb
+.claude/
+migration.md
