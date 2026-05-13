@@ -11,7 +11,7 @@ import pandas as pd
 
 
 class FundClassifier:
-    """基金分类器，基于年化收益和年化标准差对基金进行聚类分类。"""
+
 
     def __init__(self, n_clusters=4):
         self.n_clusters = n_clusters
